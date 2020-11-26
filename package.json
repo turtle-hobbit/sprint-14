@@ -1,6 +1,6 @@
 {
-  "name": "sprint-14_bedareva_sofya",
-  "version": "1.0.0",
+  "name": "sprint-15_bedareva_sofya",
+  "version": "1.2.0",
   "description": "Creating a server with authorization",
   "main": "/app.js",
   "scripts": {
