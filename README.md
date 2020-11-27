@@ -2,10 +2,12 @@
 #### Версия: v1.2.0 
 ---
 ### Проект размещен на следующих адресах
-  + http://turtlehobbit.students.nomoreparties.xyz/
-  + http://www.turtlehobbit.students.nomoreparties.xyz/
-  + https://turtlehobbit.students.nomoreparties.xyz/
-  + https://www.turtlehobbit.students.nomoreparties.xyz/
+  + http://turtle-hobbit.students.nomoreparties.space/
+  + http://www.turtle-hobbit.students.nomoreparties.space/
+  + https://turtle-hobbit.students.nomoreparties.space/
+  + https://www.turtle-hobbit.students.nomoreparties.space/
+
+<b>Публичный IP-адрес:</b> 130.193.57.4
 ---
 ### Использование проекта с целью разработки
 #### Установка
