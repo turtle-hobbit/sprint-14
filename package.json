@@ -27,5 +27,13 @@
     "mongoose": "^5.10.12",
     "validator": "^13.1.17",
     "winston": "^3.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turtle-hobbit/sprint-14.git"
+  },
+  "bugs": {
+    "url": "https://github.com/turtle-hobbit/sprint-14/issues"
+  },
+  "homepage": "https://github.com/turtle-hobbit/sprint-14#readme"
 }
