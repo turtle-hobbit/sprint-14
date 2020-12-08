@@ -1,5 +1,13 @@
 # Создание сервера на Node.js с использованием Express.js, REST API, добавлена авторизация
-#### Версия: v1.0.0 
+#### Версия: v1.2.0 
+---
+### Проект размещен на следующих адресах
+  + http://turtle-hobbit.students.nomoreparties.space/
+  + http://www.turtle-hobbit.students.nomoreparties.space/
+  + https://turtle-hobbit.students.nomoreparties.space/
+  + https://www.turtle-hobbit.students.nomoreparties.space/
+
+<b>Публичный IP-адрес:</b> 130.193.57.4
 ---
 ### Использование проекта с целью разработки
 #### Установка
